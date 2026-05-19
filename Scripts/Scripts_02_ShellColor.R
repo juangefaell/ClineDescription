@@ -997,7 +997,7 @@ MRM_Dist
 
 ### 4.- SLiM simulations ----
 
-# NOTE: This code corresponds only to that needed to generate the figures for the manuscript and supplementary materials. All raw data as extracted directly from SLiM is available upon request to the authors.
+# NOTE: This code corresponds only to that needed to generate the figures for the manuscript and supplementary materials. All raw data as extracted directly from SLiM is available at https://gitlab.com/elcortegano/rias_gallegas.
 # Subsection aim: Can mechanisms other than selection explain the existence of the cline?
 
 # ///
