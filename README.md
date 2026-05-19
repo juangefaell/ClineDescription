@@ -1,9 +1,6 @@
 # ClineDescription
-Datasets and scripts of the manuscript entitled "Selection maintains repeated covariation between color and morphology in a spatially recurrent, temporally stable cline" 
 
-# README file for datasets and scripts of `ClineDescription` project 
-
-* This document provides information about the data files and scripts used in `ClineDescription` data analysis.
+* This document provides information about the datasets and scripts of the manuscript entitled "Selection maintains repeated covariation between color and morphology in a spatially recurrent, temporally stable cline" 
 
 ## Outline of contents
 ````
