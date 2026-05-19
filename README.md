@@ -604,7 +604,7 @@
 
 * This dataset contains the distribution of consecutive generations with significant associations from beta-binomial models across 100 simulation replicates. 
 
-* This code corresponds only to that needed to generate the figures for the manuscript and supplementary materials. All raw data extracted directly from SLiM is available upon request to the authors.
+* This code corresponds only to that needed to generate the figures for the manuscript and supplementary materials. All raw data extracted directly from SLiM is available at https://gitlab.com/elcortegano/rias_gallegas.
 
 ### Variables
 
